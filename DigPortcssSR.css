@@ -1,0 +1,84 @@
+body {
+	background-image: url("Homepage/fire-abstract-HD-wallpaper.jpg");
+	background-attachment: fixed;
+}	
+
+#container {
+	background-image: url("Homepage/sound_of_space.jpg");
+	border: 7px solid;
+	border-radius: 50px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 300px;
+	width: 1195px;
+}
+
+#header {
+	background-image: url("Homepage/galaxy.jpg");
+	border: 7px solid;
+	border-radius: 50px;
+	margin-left: 200px;
+	margin-right: 200px;
+}
+
+#nav {
+	background-image: url("Homepage/images.jpg");
+	background-attachment: no-repeat;
+	width: 650px;
+	height: 100px;
+	border: 7px solid;
+	border-radius: 50px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#sidebar {
+	float: left;
+	background-color: #496B36;
+	width: 280px;
+	height: 500px;
+	border: 7px solid;
+	border-radius: 50px;
+}
+
+#main {
+	float: right;
+	background-image: url("Homepage/outer-space-hd-wallpaper.jpg");
+	width: 887px;
+	height: 500px;
+	border: 7px solid;
+	border-radius: 50px;
+}
+
+#footer {
+	clear: both;
+	background-color: #925A2B;
+	width: 650px;
+	height: 0px;
+	border: 0px solid;
+	border-radius: 50px;
+	margin-left: 275px;
+	margin-right: 300px;
+	margin-right: 300px;
+}
+
+h1 {
+	text-align: center;
+	color: orange;
+}
+
+p {
+	font-family: Helvetica, Serif;
+	color: white;
+}
+
+img {
+	border: 5px solid black;
+	border-radius: 50px;
+	border-color: gray;
+}
+
+a:hover {
+	color: orange;
+	background-color: black;
+}
